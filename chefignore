@@ -64,6 +64,7 @@ spec/*
 spec/*
 spec/fixtures/*
 test/*
+.ruby-version
 
 # SCM #
 #######
@@ -91,6 +92,7 @@ tmp
 vendor/*
 Gemfile
 Gemfile.lock
+.bundle/*
 
 # Policyfile #
 ##############
